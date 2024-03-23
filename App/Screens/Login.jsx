@@ -12,7 +12,7 @@ const Login = ()=> {
     return (
         <StyledContainer>
             <InnerContainer>
-                <PageLogo resizeMode ='cover' source={require()}/>
+                <PageLogo resizeMode='cover' source={require('../../assets/images/Logo.png')}/>
                 <PageTitle>SNEAKERDEX</PageTitle>
             </InnerContainer>
         </StyledContainer>
